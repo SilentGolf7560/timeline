@@ -6,8 +6,7 @@ body {
     margin: 0;
     font-family: sans-serif;
     background: 
-    url(img/paper.jpg)
-    no-repeat center fixed;
+    url(paper.jpg) no-repeat center fixed;
     background-size: cover;
     color: #fff;
     padding: 2em;

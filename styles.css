@@ -56,12 +56,12 @@ h2{
 .checkpoint:nth-child(odd) {
     border-left: 3px solid #888;
     padding-left: 3em;
-    transform: translateX(20em);
+    transform: translateX(22em);
 }
 .checkpoint:nth-child(even) {
     border-right: 3px solid #888;
     padding-right: 3em;
-    transform: translateX(-20em);
+    transform: translateX(-22em);
 }
 .checkpoint:nth-child(even)::before,
 .checkpoint:nth-child(odd)::before {
@@ -95,7 +95,7 @@ h2{
 
 .line {
     color: var(wrapper);
-    height: 105%;
+    height: 185%;
     width: 10px;
     position: absolute;
     left: 50%;
@@ -107,7 +107,7 @@ h2{
 }
 .wrapper { 
     background-position: inherit;
-    height: 105.5%;
+    height: 185.5%;
     width: 20px;
     position: absolute;
     left: 50%;
